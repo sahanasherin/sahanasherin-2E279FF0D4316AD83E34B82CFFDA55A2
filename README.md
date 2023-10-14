@@ -4,4 +4,4 @@ DASHBOARD  LINK: https://public.tableau.com/views/WHOLESALERCUSTOMERANALYSIS_169
 
 STORY BOARD LINK : https://public.tableau.com/views/storyboard_16966479773420/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
 
-VIDEO DEMONSTRATION LINK : https://drive.google.com/file/d/15_l3nMs5QOhVH5BqPtWtI4Ka75w8hiva/view?usp=drive_link
+VIDEO DEMONSTRATION LINK : https://drive.google.com/file/d/15_l3nMs5QOhVH5BqPtWtI4Ka75w8hiva/view?usp=drivesdk
